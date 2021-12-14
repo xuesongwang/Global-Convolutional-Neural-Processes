@@ -6,7 +6,13 @@ Most of the codes are developed based on the [Neural Process Families website](h
 please cite their work as well.
 
 
-Please refer to the .ipynb files to read the codes and recreate the results.
+Please refer to the .ipynb  files to read the codes and recreate the results.
+
+[1D datasets](https://github.com/xuesongwang/global-convolutional-neural-processes/blob/master/GBCoNP-1d-regression.ipynb): RBF, Periodic, Matern, Storck50, SmartMeter, HousePricing 
+
+[2D datasets](https://github.com/xuesongwang/global-convolutional-neural-processes/blob/master/GBCoNP-2d-regression.ipynb): MNIST, SVHN, CelebA32
+
+[Covid dataset](https://github.com/xuesongwang/global-convolutional-neural-processes/blob/master/GBCoNP-Covid-regression.ipynb)
 
 To cite our work, please use the following:
 ```
