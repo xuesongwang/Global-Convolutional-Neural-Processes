@@ -1,0 +1,13 @@
+skorch==0.8
+torch
+torchvision
+matplotlib
+tqdm
+scikit-learn
+joblib
+h5py
+seaborn
+scikit-image
+pandas
+numpy
+plotly # if you want to generate the Covid dataset by yourself
