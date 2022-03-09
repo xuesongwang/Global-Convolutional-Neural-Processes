@@ -1,9 +1,9 @@
 This is the official code for our 
 IEEE ICDM 2021' Paper:
 
-## ["Global Convolutional Neural Processes"](https://arxiv.org/abs/2109.00691)
+## [Global Convolutional Neural Processes](https://arxiv.org/abs/2109.00691)
 
-### [Xuesong Wang](https://xuesongwang.github.io/), Lina Yao, Xianzhi Wang, Hye-young Paik, and Sen Wang
+### [Xuesong Wang](https://xuesongwang.github.io/), [Lina Yao](https://www.linayao.com/), Xianzhi Wang, Hye-young Paik, and Sen Wang
 
 Most of the codes are developed based on the [Neural Process Families website](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html),
 please cite their work as well.
